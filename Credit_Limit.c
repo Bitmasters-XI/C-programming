@@ -17,3 +17,25 @@ int main()
 
         printf("Enter the price of the item:\n");
         scanf("%f",&price);
+        do{
+        printf("Enter the quantity of items:\n");
+        scanf("%d",&quantity);
+
+        value=quantity*price;
+   if(credit_limit<value)
+        {
+            printf("Sorry, you cannot purchase goods worthy such a value on credit.\n");
+            printf("Please enter new quantity of goods.\n");
+
+        }else
+        {
+            printf("Thank you for purchasing from us.\n");
+            printf("Value of goods:%.2f\n",value);
+            break;
+        }
+        }while(1);
+        customers++;
+    }
+
+ return 0;
+}
