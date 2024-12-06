@@ -44,5 +44,53 @@ int main()
          scanf(" %c", &choice);
     }
 
-return{0};
+return 0 ;
 }
+
+
+
+// START
+//     DECLARE variables:
+//         admission_no (ARRAY of CHAR), stud_surname (ARRAY of CHAR)
+//         mark1, mark2, mark3 (INTEGER)
+//         average_mark (FLOAT)
+//         choice (CHAR), initialize to 'Y'
+
+//     WHILE choice is 'Y' OR 'y' DO
+//         PRINT "Enter student's admission number:"
+//         INPUT admission_no
+
+//         PRINT "Enter student's surname:"
+//         INPUT stud_surname
+
+//         PRINT "Enter the student's marks:"
+//         INPUT mark1, mark2, mark3
+
+//         SET average_mark to (mark1 + mark2 + mark3) / 3
+
+//         PRINT "Admission number:" admission_no
+//         PRINT "Surname:" stud_surname
+//         PRINT "Mark1:" mark1
+//         PRINT "Mark2:" mark2
+//         PRINT "Mark3:" mark3
+//         PRINT "Average mark:" average_mark
+
+//         // Determine and display the grade
+//         IF average_mark >= 70 THEN
+//             PRINT "Grade = A"
+//         ELSE IF average_mark >= 60 THEN
+//             PRINT "Grade = B"
+//         ELSE IF average_mark >= 50 THEN
+//             PRINT "Grade = C"
+//         ELSE IF average_mark >= 40 THEN
+//             PRINT "Grade = D"
+//         ELSE
+//             PRINT "Grade = F"
+//         END IF
+
+//         // Ask if user wants to continue
+//         PRINT "Do you want to enter another student's marks? (Y/N):"
+//         INPUT choice
+//     END WHILE
+
+// END
