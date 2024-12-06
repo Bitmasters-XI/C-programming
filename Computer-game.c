@@ -48,3 +48,43 @@ int main()
     }
     return 0;
 }
+
+
+// PSEUDOCODE:
+
+//     INITIALIZE random seed using current time
+//     DECLARE variables:
+//         rounds, lucky_number, secret_number, no_of_rounds, remainder, total_score
+//     SET total_score to 0
+
+//     PRINT "Enter number of rounds you wish to play:"
+//     INPUT no_of_rounds
+//     SET rounds to no_of_rounds
+
+//     WHILE rounds >= 1 DO
+//         SET secret_number to a random number between 1 and 10
+//         PRINT "Enter your lucky number:"
+//         INPUT lucky_number
+
+//         SET remainder to lucky_number MOD secret_number
+
+//         IF remainder == 0 THEN
+//             PRINT "Good attempt, you have earned 1 point"
+//             INCREMENT total_score by 1
+//         ELSE IF remainder MOD 2 == 0 THEN
+//             PRINT "Congrats, you have earned 3 points"
+//             INCREMENT total_score by 3
+//         ELSE
+//             PRINT "Oops, you have lost 3 points"
+//             DECREMENT total_score by 3
+//         END IF
+
+//         DECREMENT rounds by 1
+//     END WHILE
+
+//     IF total_score > 0 THEN
+//         PRINT "You are the winner!"
+//     ELSE
+//         PRINT "You lost, better luck next time"
+//     END IF
+// END
