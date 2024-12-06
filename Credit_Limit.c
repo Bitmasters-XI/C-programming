@@ -39,3 +39,42 @@ int main()
 
  return 0;
 }
+
+
+
+
+// START
+//     DECLARE variables:
+//         customers, total_customers, credit_limit, quantity
+//         price (FLOAT), value (FLOAT)
+//     INITIALIZE customers to 0
+
+//     PRINT "Enter the number of customers:"
+//     INPUT total_customers
+
+//     WHILE customers < total_customers DO
+//         PRINT "Enter the credit limit:"
+//         INPUT credit_limit
+
+//         PRINT "Enter the price of the item:"
+//         INPUT price
+
+//         DO
+//             PRINT "Enter the quantity of items:"
+//             INPUT quantity
+
+//             SET value to quantity * price
+
+//             IF credit_limit < value THEN
+//                 PRINT "Sorry, you cannot purchase goods worthy such a value on credit."
+//                 PRINT "Please enter new quantity of goods."
+//             ELSE
+//                 PRINT "Thank you for purchasing from us."
+//                 PRINT "Value of goods:" value
+//                 BREAK
+//             END IF
+//         WHILE TRUE
+//         INCREMENT customers by 1
+//     END WHILE
+
+//     END

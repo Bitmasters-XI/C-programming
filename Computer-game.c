@@ -51,7 +51,7 @@ int main()
 
 
 // PSEUDOCODE:
-
+//  START
 //     INITIALIZE random seed using current time
 //     DECLARE variables:
 //         rounds, lucky_number, secret_number, no_of_rounds, remainder, total_score
