@@ -5,16 +5,16 @@ Group Name: BitMasters
 Instructor’s Name : John Wanaina
 
 ### Group Members
-1. Davidpraise Njinu Kimwaki - SCT211-0236/2024
-2. Amoit IvyneLisa Atieng -  SCT211-0348/2024
-3. Njanja Lawrence Kariuki - SCT211-0475/2024
-4. Bethwel Kipruto Kangogo - SCT211-0387/2024
-5. George Maina Wanjohi -  SCT211-0345/2024
-6. Winnie Mugoiri - SCT211-0238/2024
-7. Andrew Chweya Okero Mokandu - SCT211-0251/2024
-8. Willy Kaveva - SCT211-0240/2024
-9.  Caleb Mutai Yegon - SCT211-0025/2024          
-10. Kiarie Kariuki - SCT211-0002/2023
+1. Davidpraise Njinu Kimwaki 
+2. Amoit IvyneLisa Atieng  
+3. Njanja Lawrence Kariuki  
+4. Bethwel Kipruto Kangogo  
+5. George Maina Wanjohi 
+6. Winnie Mugoiri  
+7. Andrew Chweya Okero Mokandu  
+8. Willy Kaveva  
+9.  Caleb Mutai Yegon        
+10. Kiarie Kariuki  
 
 ### Assignment 1 Overview
 This report details our implementation of four C programming problems focusing on:
