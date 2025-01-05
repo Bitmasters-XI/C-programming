@@ -4,7 +4,7 @@ Course Code: ICS_2100
 Group Name: BitMasters
 Instructor’s Name : John Wanaina
 
-### Group Members
+### Contributers
 1. Davidpraise Njinu Kimwaki 
 2. Amoit IvyneLisa Atieng  
 3. Njanja Lawrence Kariuki  
@@ -26,7 +26,8 @@ This report details our implementation of four C programming problems focusing o
 Problem Implementations
 ### 1. Lucky Number Game
 
- Problem Description
+**Problem Description**
+
 A program that implements a game where users:
 - Input number of rounds
 - Enter lucky numbers for each round
@@ -67,7 +68,7 @@ Our Approach
 The game cleverly combines random number generation with basic number theory (divisibility and remainder properties) to create an engaging number guessing game.
 
 ### 2. Student Grade Calculator
-Problem Description
+**Problem Description**
 The Student Grade Calculator is a program designed to streamline the process of managing and evaluating student academic performance. The program implements the following key features:
 Data Input:
 Captures student admission numbers and surnames for identification
@@ -137,7 +138,7 @@ Tested do-while loop functionality for quantity adjustments
 Confirmed proper program termination after processing all customers
 
 ### 4. Employee Tax Calculator
-Problem Description
+**Problem Description**
 The Employee Tax Calculator is a program designed to calculate tax rates based on employees' gross pay and number of dependants. The program implements the following features:
 Input Collection:
 Captures employee's gross pay amount
@@ -167,23 +168,22 @@ Checked behavior at extreme values
 
  
 ### Technical Achievements:
-Mastered fundamental C programming concepts including loops, conditional statements, and arithmetic operations through practical implementation of four distinct programs
-Developed proficiency in input validation techniques  
-Gained hands-on experience with random number generation and mathematical algorithms in C
-Established effective version control practices using GitHub, learning essential commands and collaborative workflow procedures
-Developed strong teamwork capabilities by dividing tasks among 10 team members while maintaining code consistency
-Implemented code review practices that improved overall program quality and reliability
-Built communication skills through regular team meetings and documentation efforts
-Enhanced problem-solving abilities through tackling diverse programming challenges
-Developed debugging skills by identifying errors in our codes
-Gained practical experience in writing maintainable and well-documented code
+- Mastered fundamental C programming concepts including loops, conditional statements, and arithmetic operations through practical implementation of four distinct programs
+- Developed proficiency in input validation techniques  
+- Gained hands-on experience with random number generation and mathematical algorithms in C
+- Established effective version control practices using GitHub, learning essential commands and collaborative workflow procedures
+- Developed strong teamwork capabilities by dividing tasks among 10 team members while maintaining code consistency
+- Implemented code review practices that improved overall program quality and reliability
+- Built communication skills through regular team meetings and documentation efforts
+- Enhanced problem-solving abilities through tackling diverse programming challenges
+- Developed debugging skills by identifying errors in our codes
+- Gained practical experience in writing maintainable and well-documented code
 ### Appendices
-a. Link to our Github Repository 
-C-Programming Assignment1
- 
+This is the Link  to our Repository 
+[Assignment1](https://github.com/Bitmasters-XI/C-programming)
 
-C. Git Commit History
-Git Commits History
+ 
+ 
 
 
 
